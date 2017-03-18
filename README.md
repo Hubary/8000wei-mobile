@@ -1,5 +1,7 @@
 #Baqianwei-mobile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Loyalsoldier/8000wei-mobile.svg)](https://greenkeeper.io/)
+
 Vue很轻量、易定制，比较适合移动端。
 用[VUE](http://cn.vuejs.org/) 和 [SUI-Mobile](http://m.sui.taobao.org/) 作为毕业设计项目的技术选型（禁用了 SUI 自带的路由，使用[Vue-router](https://github.com/vuejs/vue-router) 代替）。
 
